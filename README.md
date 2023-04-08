@@ -25,8 +25,6 @@ html/css/javascript/java/servlet/jsp
 - [x] 구현 기능: 나의 여행 계획 세우기
 ![실행화면캡쳐](./WebContent/docs/%EC%97%AC%ED%96%89%EA%B3%84%ED%9A%8D%EC%84%B8%EC%9A%B0%EA%B8%B0.png)
 - [x] 구현 기능: 로그인
-![실행화면캡쳐](./WebContent/docs/%EB%A1%9C%EA%B7%B8%EC%9D%B8.png)
-![실행화면캡쳐](./WebContent/docs/%EB%A1%9C%EA%B7%B8%EC%9D%B82.png)
 - [x] 구현 기능: 회원가입
 ![실행화면캡쳐](./WebContent/docs/%ED%9A%8C%EC%9B%90%EA%B0%80%EC%9E%851.png)
 ![실행화면캡쳐](./WebContent/docs/%ED%9A%8C%EC%9B%90%EA%B0%80%EC%9E%852.png)
