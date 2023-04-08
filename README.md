@@ -1,11 +1,5 @@
-# 관통프로젝트: TP_S09_S09_FrontEnd_EnjoyTrip_박종하_전문수
-### 제출마감: 2023.03.17 23:59까지
-
-### 참여 페어
-- 박종하, 전문수
-
 ### 기술 스택
-html/css/javascript 
+html/css/javascript/java/servlet/jsp
 
 ### 처리된 요구사항 목록
   
@@ -26,7 +20,6 @@ html/css/javascript
 
 
 ### 실행화면 캡쳐 - l
-TODO: 요구사항 목록에서 완료 처리된 사항의 캡쳐 이미지를 등록하세요.
 - [x] 구현 기능 : 전체화면 
 ![실행화면캡쳐](./WebContent/docs/%EC%A0%84%EC%B2%B4%ED%99%94%EB%A9%B4.png)
 - [x] 구현 기능: 나의 여행 계획 세우기
