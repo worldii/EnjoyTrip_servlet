@@ -1,5 +1,7 @@
+### 설명
+Servlet과 JSP를 이용하여, 여행 게시판 구축.
 ### 기술 스택
-html/css/javascript/java/servlet/jsp
+HTML, CSS, Javascript, Java, Servlet, JSP,MySQL
 
 ### 처리된 요구사항 목록
   
